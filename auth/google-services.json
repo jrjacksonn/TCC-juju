@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "119325751591",
+    "project_id": "inflower-jj",
+    "storage_bucket": "inflower-jj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119325751591:android:6440b61924d92643a69102",
+        "android_client_info": {
+          "package_name": "com.juliajackson.inflower"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119325751591-jrilpcs6gk8t6vf3r7bh4pmur11elfo3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMrjXiloXZYzCqQ_ZxiZVBUvXlfS6gWjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119325751591-jrilpcs6gk8t6vf3r7bh4pmur11elfo3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "119325751591-hglc53ducicg5mgjh56j2eotk76b6k9h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.juliajackson.inflower"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
